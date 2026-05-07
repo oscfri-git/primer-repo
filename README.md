@@ -53,3 +53,6 @@ Incluye la licencia del proyecto o indica dónde consultarla.
 
 ## Información adicional sobre el repositorio
 Un pco mas de informacion
+
+## Sección añadida desde GitHub
+Este contenido ha sido añadido directamente desde la interfaz web de GitHub, sin pasar por el repositorio local.
