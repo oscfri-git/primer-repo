@@ -50,3 +50,6 @@ Puedes indicar si el proyecto está en desarrollo, estable o archivado. Esto ayu
 ## Licencia
 
 Incluye la licencia del proyecto o indica dónde consultarla.
+
+## Información adicional sobre el repositorio
+Un pco mas de informacion
